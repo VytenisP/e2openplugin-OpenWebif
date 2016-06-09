@@ -1,0 +1,1296 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenWebif\n"
+"POT-Creation-Date: 2015-08-06 12:07+0300\n"
+"PO-Revision-Date: 2016-05-20 17:53+0300\n"
+"Last-Translator: Vytenis Pulokas <vyteniui@gmail.com>\n"
+"Language-Team: Vytenis Pulokas <vyteniui@gmail.com>\n"
+"Language: lt_LT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "(shift + click for long pressure)"
+msgstr "(shift + click ilgam nuspaudimui)"
+
+msgid "AGC"
+msgstr "AGC"
+
+msgid "About"
+msgstr "Apie OpenWebif"
+
+msgid "Add"
+msgstr "Pridėti"
+
+msgid "Add AutoTimer"
+msgstr "Pridėti autolaikmatį"
+
+msgid "Add Autotimer to Tags"
+msgstr "Pridėti autolaikmatį prie žymų"
+
+msgid "Add Bouquet"
+msgstr "Pridėti bukietą"
+
+msgid "Add Marker"
+msgstr "Pridėti žymeklį"
+
+msgid "Add Name to Tags"
+msgstr "Pridėti pavadinimą prie žymų"
+
+msgid "Add Provider as new Bouquet"
+msgstr "Įtraukti teikėją, kaip naują bukietą"
+
+msgid "Add Similar on Conflict"
+msgstr "Konflikto atveju, pridėti panašų"
+
+msgid "Add Timer"
+msgstr "Pridėti laikmatį"
+
+msgid "Add Zap Timer"
+msgstr "Pridėti perjungimo laikmatį"
+
+msgid "Add channel(s) as alternate"
+msgstr "Įtraukti kanalą(us), kaip atsarginį"
+
+msgid "Add channel(s) to Bouquet"
+msgstr "Įtraukti kanalą(us) į bukietą"
+
+msgid "Add service name to stream information"
+msgstr "Į transliacijos informaciją įtraukti kanalo pavadinimą"
+
+msgid "After Event"
+msgstr "Po įvykio"
+
+msgid "After event"
+msgstr "Po įvykio"
+
+msgid "Afterevent"
+msgstr "Po įvykio"
+
+msgid "All"
+msgstr "Visi"
+
+msgid "All Channels"
+msgstr "Visi kanalai"
+
+msgid "All Files of this Software are open source software;"
+msgstr "Visi šios programinės įrangos failai yra atviro kodo;"
+
+msgid "All Files of this Software are open source software; you can redistribute it and/or modify it under the terms of the GNU General Public License version 2 as published by the Free Software Foundation."
+msgstr "Visi šios programinės įrangos failai yra atviro kodo; jūs galite platinti ir/ar modifikuoti pagal GNU Bendrosios viešosios licencijos sąlygas v.2, kaip paviešinta 'Free Software Foundation'."
+
+msgid "Always"
+msgstr "Visada"
+
+msgid "Amount of recordings left"
+msgstr "Likęs įrašų kiekis"
+
+msgid "Answer is NO!"
+msgstr "Atsakymas NE!"
+
+msgid "Answer is YES!"
+msgstr "Atsakymas TAIP!"
+
+msgid "Any service/recording"
+msgstr "Bet kuris kanalas/įrašymas"
+
+msgid "April"
+msgstr "balandžio"
+
+msgid "Ask, default No"
+msgstr "Klausti, numatytasis NE"
+
+msgid "Ask, default Yes"
+msgstr "Klausti, numatytasis TAIP"
+
+msgid "August"
+msgstr "rugpjūčio"
+
+msgid "Authors"
+msgstr "Autoriai"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "AutoPoll"
+msgstr "Autoapklausa"
+
+msgid "AutoTimer"
+msgstr "Autolaikmatis"
+
+msgid "AutoTimer Edit"
+msgstr "Autolaikmačio redagavimas"
+
+msgid "AutoTimer List"
+msgstr "Autolaikmačio sąrašas"
+
+msgid "AutoTimer Settings"
+msgstr "Autolaikmačio nustatymai"
+
+msgid "Autotimer Preview"
+msgstr "Autolaikmačio apžvalga"
+
+msgid "BER"
+msgstr "BER"
+
+msgid "Back"
+msgstr "Atgal"
+
+msgid "Background only"
+msgstr "Tik foną"
+
+msgid "Begin"
+msgstr "Pradžia"
+
+msgid "Begin of \"after event\" timespan"
+msgstr "Laikotarpio 'po įvykio' pradžia"
+
+msgid "Begin of timespan"
+msgstr "Laikotarpio pradžia"
+
+msgid "Bouquet Editor"
+msgstr "Bukietų redaktorius"
+
+msgid "BouquetEditor"
+msgstr "Bukietų redaktorius"
+
+msgid "Bouquets"
+msgstr "Bukietai"
+
+msgid "Box"
+msgstr "TV imtuvas"
+
+msgid "Box Control"
+msgstr "TV imtuvo valdymas"
+
+msgid "Box Info"
+msgstr "Aparato informacija"
+
+msgid "Box Uptime"
+msgstr "Nepertraukiamo darbo laikas"
+
+msgid "Brand"
+msgstr "Prekės ženklas"
+
+msgid "Cable"
+msgstr "Kabelinė"
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+msgid "Capacity"
+msgstr "Talpa"
+
+msgid "Channel"
+msgstr "Kanalas"
+
+msgid "Channels"
+msgstr "Kanalai"
+
+msgid "Character encoding for EPG data"
+msgstr "EPG naudojamų šriftų koduotė"
+
+msgid "Chipset"
+msgstr "Lustų rinkinys"
+
+msgid "Cleanup Timers"
+msgstr "Valyti laikmačius"
+
+msgid "Close"
+msgstr "Uždaryti"
+
+msgid "Conflicting Timer(s) detected! %s"
+msgstr "Laikmačių konfliktas! %s"
+
+msgid "Contributors"
+msgstr "Bendraautoriai"
+
+msgid "Control"
+msgstr "Valdymas"
+
+msgid "Could not add timer '%s'!"
+msgstr "Laikmačio '%s' pridėti nepavyko!"
+
+msgid "Could not find timer '%s' with given start and end time!"
+msgstr "Nepavyko rasti laikmačio '%s' su nurodytu pradžios ir pabaigos laiku!"
+
+msgid "Current"
+msgstr "Dabartinis"
+
+msgid "Current Event"
+msgstr "Dabas rodoma"
+
+msgid "Custom box name"
+msgstr "Savas TV imtuvo pavadinimas"
+
+msgid "Custom offset"
+msgstr "Pasirinktinis intarpas"
+
+msgid "DHCP"
+msgstr "DHCP"
+
+msgid "December"
+msgstr "gruodžio"
+
+msgid "Deep-Standby"
+msgstr "Išjungti"
+
+msgid "Default"
+msgstr "Numatyta"
+
+msgid "Delay Standby"
+msgstr "Delsa iki budėjimo"
+
+msgid "Delete"
+msgstr "Pašalinti"
+
+msgid "Delete Bouquet"
+msgstr "Pašalinti bukietą"
+
+msgid "Delete Channel(s)"
+msgstr "Šalinti kanalą(us)"
+
+msgid "Delete Recording"
+msgstr "Ištrinti įrašą"
+
+msgid "Delete Timer"
+msgstr "Pašalinti laikmatį"
+
+msgid "Description"
+msgstr "Aprašymas"
+
+msgid "Disable Timer"
+msgstr "Išjungti laikmatį"
+
+msgid "Disable access for user root"
+msgstr "Uždrausti 'root' vartotojo prieigą"
+
+msgid "Disabled on Conflict"
+msgstr "Konflikto atveju išjungta"
+
+msgid "Distro"
+msgstr "Distribucija"
+
+msgid "Do you really want to delete the AT"
+msgstr "Jūs tikrai norite pašalinti AT"
+
+msgid "Do you really want to delete the bouquet"
+msgstr "Jūs tikrai norite pašalinti bukietą"
+
+msgid "Do you really want to delete the channel(s)"
+msgstr "Jūs tikrai norite pašalinti kanalą(us)"
+
+msgid "Do you really want to restore from file"
+msgstr "Ar tikrai norite atkurti iš failo"
+
+msgid "Dolby"
+msgstr "Dolby"
+
+msgid "Done"
+msgstr "Atlikta"
+
+msgid "Download"
+msgstr "Atsisiųsti"
+
+msgid "Download Playlist for"
+msgstr "Parsisiųsti grojaraštį"
+
+msgid "Driver date"
+msgstr "Tvarkyklių data"
+
+msgid "Duration"
+msgstr "Trukmė"
+
+msgid "E"
+msgstr "R"
+
+msgid "EPG"
+msgstr "EPG"
+
+msgid "EPG encoding"
+msgstr "EPG koduotė"
+
+msgid "EPGRefresh"
+msgstr "EPG atnaujinimas"
+
+msgid "ERROR: Cannot set SleepTimer while device is in Standby-Mode"
+msgstr "KLAIDA: Negalima nustatyti budėjimo laikmačio, kai įrenginys budėjimo būsenoje"
+
+msgid "Edit Timer"
+msgstr "Redaguoti laikmatį"
+
+msgid "Editor"
+msgstr "Redaktorius"
+
+msgid "Enable Authentication for streaming"
+msgstr "Transliacijoms įjungti autentifikavimą"
+
+msgid "Enable Filtering"
+msgstr "Įjungti filtravimą"
+
+msgid "Enable HTTP Authentication"
+msgstr "Įjungti HTTP autentifikavimą"
+
+msgid "Enable HTTPS"
+msgstr "Įjungti HTTPS"
+
+msgid "Enable HTTPS Authentication"
+msgstr "Įjungti HTTPS autentifikavimą"
+
+msgid "Enable Messages"
+msgstr "Įjungti žinutes"
+
+msgid "Enable Parental Control"
+msgstr "Įjungti tėvų kontrolę"
+
+msgid "Enable Timer"
+msgstr "Įjungti laikmatį"
+
+msgid "Enabled"
+msgstr "Įjungtas"
+
+msgid "Encrypted"
+msgstr "Užšifruota"
+
+msgid "End"
+msgstr "Pabaiga"
+
+msgid "End of \"after event\" timespan"
+msgstr "Laikotarpio 'po įvykio' pabaiga"
+
+msgid "End of Timespan"
+msgstr "Laikotarpio pabaiga"
+
+msgid "Enter new name for the bouquet"
+msgstr "Įrašykite naują bukieto pavadinimą"
+
+msgid "Enter new name for the marker"
+msgstr "Įrašykite naują žymeklio pavadinimą"
+
+msgid "Epg Search"
+msgstr "EPG paieška"
+
+msgid "Error"
+msgstr "Klaida"
+
+msgid "EventId not found"
+msgstr "Įvykio ID nerastas"
+
+msgid "Every"
+msgstr "Kiekvienas"
+
+msgid "Exclude"
+msgstr "Išskyrus"
+
+msgid "Execute \"after event\" during timespan"
+msgstr "Vykdyti 'po įvykio' per laikotarpį"
+
+msgid "Export"
+msgstr "Eksportuoti"
+
+msgid "Extras"
+msgstr "Priedai"
+
+msgid "Fake Recording"
+msgstr "Pseudo įrašymas"
+
+msgid "False"
+msgstr "Ne"
+
+msgid "Fastscan"
+msgstr "Greitas skenavimas"
+
+msgid "February"
+msgstr "vasario"
+
+msgid "Firmware version"
+msgstr "Mikroprogramos versija"
+
+msgid "Force"
+msgstr "Priverstinai"
+
+msgid "Fr"
+msgstr "Pn"
+
+msgid "Free"
+msgstr "Laisva"
+
+msgid "Free Memory"
+msgstr "Laisva atmintis"
+
+msgid "Fri"
+msgstr "Pen"
+
+msgid "Friday"
+msgstr "penktadienis"
+
+msgid "Frontprocessor Version"
+msgstr "Sąsajos procesoriaus versija"
+
+msgid "Gateway"
+msgstr "Šliuzas"
+
+msgid "Grab Screenshot"
+msgstr "Ekrano nuotrauka"
+
+msgid "Gui version"
+msgstr "Grafinės aplinkos versija"
+
+msgid "HTTP port"
+msgstr "HTTP prievadas"
+
+msgid "HTTPS port"
+msgstr "HTTPS prievadas"
+
+msgid "Hard disk model"
+msgstr "HDD modelis"
+
+msgid "Hide full remote"
+msgstr "Slėpti nuotolinį pultą"
+
+msgid "High Resolution"
+msgstr "Didelės raiškos"
+
+msgid "Hour"
+msgstr "Valanda"
+
+msgid "IP address"
+msgstr "IP adresas"
+
+msgid "IPv4-only Python/Twisted"
+msgstr "IPv4 vien tik Python/Mišrus"
+
+msgid "IPv4-only kernel"
+msgstr "IPv4 vien tik branduolys"
+
+msgid "IPv6 address(es)"
+msgstr "IPv6 adresas(ai)"
+
+msgid "Import"
+msgstr "Importuoti"
+
+msgid "Include"
+msgstr "Įskaitant"
+
+msgid "Include description"
+msgstr "Įtraukti aprašymą"
+
+msgid "Infinite Instant recording started"
+msgstr "Pradėtas neapribotas neplaninis įrašymas"
+
+msgid "Infos"
+msgstr "Informacija"
+
+msgid "Inherit Autotimer"
+msgstr "Paveldėti autolaikmatį"
+
+msgid "Instant Record"
+msgstr "Neplaninis įrašymas"
+
+msgid "Instant record for current Event started"
+msgstr "Pradėtas šio įvykio neplaninis įrašymas"
+
+msgid "Interval (in h)"
+msgstr "Intervalas (val.)"
+
+msgid "Interval (min.)"
+msgstr "Intervalas (min.)"
+
+msgid "Interval (sec.)"
+msgstr "Intervalas (sek.)"
+
+msgid "January"
+msgstr "sausio"
+
+msgid "Javascript Libraries"
+msgstr "Javascript bibliotekos"
+
+msgid "July"
+msgstr "liepos"
+
+msgid "June"
+msgstr "birželio"
+
+msgid "Just play"
+msgstr "Tiesiog įjungti"
+
+msgid "Kernel version"
+msgstr "Branduolio versija"
+
+msgid "LCD4Linux Setup"
+msgstr "LCD4Linux sąranka"
+
+msgid "LICENSE"
+msgstr "LICENCIJA"
+
+msgid "Label series"
+msgstr "Žymėti seriją"
+
+msgid "List of Timers has been cleaned"
+msgstr "Laikmačių sąrašas išvalytas"
+
+msgid "Location"
+msgstr "Vieta"
+
+msgid "Locked"
+msgstr "Užrakinta"
+
+msgid "MAC address"
+msgstr "MAC adresas"
+
+msgid "Main"
+msgstr "Pagrindinis"
+
+msgid "March"
+msgstr "kovo"
+
+msgid "Match title"
+msgstr "Pavadinimas atitiks"
+
+msgid "Max Days"
+msgstr "Maks. dienų"
+
+msgid "May"
+msgstr "gegužės"
+
+msgid "Message sent successfully!"
+msgstr "Pranešimas išsiųstas sėkmingai!"
+
+msgid "Method"
+msgstr "Metodas"
+
+msgid "Minute"
+msgstr "Minutė"
+
+msgid "Missing mandatory parameter '%s'"
+msgstr "Trūksta būtino parametro '%s'"
+
+msgid "Missing requesteter: sRef"
+msgstr "Trūksta užklausos: sRef"
+
+msgid "Mo"
+msgstr "Pr"
+
+msgid "Model"
+msgstr "Modelis"
+
+msgid "Mon"
+msgstr "Pir"
+
+msgid "Monday"
+msgstr "pirmadienis"
+
+msgid "Monthly"
+msgstr "Kas mėnesį"
+
+msgid "Movielist"
+msgstr "Filmų sąrašas"
+
+msgid "Movies"
+msgstr "Filmai"
+
+msgid "MultiEPG"
+msgstr "MultiEPG"
+
+msgid "Name"
+msgstr "Pavadinimas"
+
+msgid "Name of the Bouquet"
+msgstr "Bukieto pavadinimas"
+
+msgid "Name of the Marker"
+msgstr "Žymeklio pavadinimas"
+
+msgid "Namespace"
+msgstr "Vardų sritis"
+
+msgid "Network Interface"
+msgstr "Tinklo sąsaja"
+
+msgid "Never"
+msgstr "Niekada"
+
+msgid "New"
+msgstr "Naujas"
+
+msgid "New Name"
+msgstr "Naujas pavadinimas"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "No answer in time"
+msgstr "Nėra atsako ilgą laiką"
+
+msgid "No event found! Not recording!"
+msgstr "Įvykių nerasta! Nebus įrašoma!"
+
+msgid "No matching Timer found"
+msgstr "Kriterijus atitinkančio laikmačio nerasta"
+
+msgid "None"
+msgstr "Joks"
+
+msgid "Not after"
+msgstr "Ne vėliau"
+
+msgid "Not before"
+msgstr "Ne anksčiau"
+
+msgid "Nothing"
+msgstr "Jokios."
+
+msgid "Nothing playing."
+msgstr "Nieko nerodoma."
+
+msgid "Notify if Conflict"
+msgstr "Pranešti apie konfliktą"
+
+msgid "Notify if Similar"
+msgstr "Pranešti, jei panašus"
+
+msgid "November"
+msgstr "lapkričio"
+
+msgid "Now"
+msgstr "Dabar"
+
+msgid "OSD"
+msgstr "OSD"
+
+msgid "October"
+msgstr "spalio"
+
+msgid "Offset after recording (in m)"
+msgstr "Intarpas po įrašymo (min.)"
+
+msgid "Offset before recording (in m)"
+msgstr "Intarpas prieš įrašymą (min.)"
+
+msgid "On"
+msgstr "Įjungta"
+
+msgid "On any service"
+msgstr "Ant bet kurio kanalo"
+
+msgid "On same service"
+msgstr "Ant to pačio kanalo"
+
+msgid "Only match during timespan"
+msgstr "Atitinka tik laikotarpiu"
+
+msgid "Open Source Web Interface for Linux set-top box"
+msgstr "Atviro kodo Web sąsaja Linux TV imtuvams valdyti"
+
+msgid "Open in new window"
+msgstr "Atverti naujame lange"
+
+msgid "OpenWebInterface Enabled"
+msgstr "OpenWeb sąsaja įjungta"
+
+msgid "OpenWebif Configuration"
+msgstr "OpenWebif konfigūravimas"
+
+msgid "OpenWebif url: http://yourip:port"
+msgstr "OpenWebif nuoroda: http://imtuvo_IP:prievadas"
+
+msgid "Override found with alternative service"
+msgstr "Nepaisyti rastų alternatyvių kanalų"
+
+msgid "Parse"
+msgstr "Analizuoti"
+
+msgid "Parse Autotimer"
+msgstr "Analizuoti autolaikmatį"
+
+msgid "Picture in Picture"
+msgstr "Vaizdas vaizde"
+
+msgid "Picture in Picture (hidden)"
+msgstr "Vaizdas vaizde (paslėptas)"
+
+msgid "Plain"
+msgstr "Paprastas"
+
+msgid "Playback"
+msgstr "Atkūrimas"
+
+msgid "Playlist"
+msgstr "Grojaraštis"
+
+msgid "Please enter filename"
+msgstr "Įrašykite failo pavadinimą"
+
+msgid "Power Control"
+msgstr "Maitinimo valdymas"
+
+msgid "PowerTimer feature not available"
+msgstr "Išjungimo laikmačio funkcija negalima"
+
+msgid "Provider"
+msgstr "Tiekėjas"
+
+msgid "Providers"
+msgstr "Tiekėjai"
+
+msgid "Radio"
+msgstr "TV / Radijas"
+
+msgid "Really delete the recording"
+msgstr "Tikrai ištrinti įrašą"
+
+msgid "Really delete the timer"
+msgstr "Tikrai pašalinti laikmatį"
+
+msgid "Reboot Box"
+msgstr "Paleisti iš naujo"
+
+msgid "Record+ZAP:"
+msgstr "Įjungti kanalą ir įrašymą:"
+
+msgid "Record a maximum of x times"
+msgstr "Įrašas daugiausiai x kartų"
+
+msgid "Recording Status"
+msgstr "Įrašymo būsena"
+
+msgid "Refresh"
+msgstr "Atnaujinti"
+
+msgid "Refresh Timer"
+msgstr "Atnaujinti laikmatį"
+
+msgid "Refresh automatically every"
+msgstr "Atnaujinti automatiškai kas"
+
+msgid "Refresh now"
+msgstr "Atnaujinti dabar"
+
+msgid "Reload"
+msgstr "paleisti iš naujo"
+
+msgid "Remote"
+msgstr "Nuotolinis"
+
+msgid "Rename"
+msgstr "Pervadinti"
+
+msgid "Rename Bouquet"
+msgstr "Pervadinti bukietą"
+
+msgid "Rename Recording"
+msgstr "Pervadinti įrašą"
+
+msgid "Repeated"
+msgstr "Pakartotinas"
+
+msgid "Require client cert for HTTPS"
+msgstr "Reikalauti HTTPS kliento sertifikato"
+
+msgid "Require description to be unique"
+msgstr "Reikalauti aprašymo unikalumo"
+
+msgid "Reset count"
+msgstr "Išvalyti skaitiklį"
+
+msgid "Restart GUI"
+msgstr "Paleisti grafinę aplinką iš naujo"
+
+msgid "Restrict to events on certain dates"
+msgstr "Apriboti renginius konkrečiomis datomis"
+
+msgid "Root"
+msgstr "Pradinis"
+
+msgid "SNR"
+msgstr "SNR"
+
+msgid "Sa"
+msgstr "Št"
+
+msgid "Safe mode"
+msgstr "Saugusis režimas"
+
+msgid "Sat"
+msgstr "Šeš"
+
+msgid "Satellites"
+msgstr "Palydovai"
+
+msgid "Satfinder"
+msgstr "Palydovų ieškiklis"
+
+msgid "Saturday"
+msgstr "šeštadienis"
+
+msgid "Save"
+msgstr "Išsaugoti"
+
+msgid "Screenshot"
+msgstr "Ekrano nuotrauka"
+
+msgid "Search"
+msgstr "Paieška"
+
+msgid "Search IMDb"
+msgstr "Ieškoti po IMDb"
+
+msgid "Search KinoPoisk"
+msgstr "Ieškoti po KinoPoisk"
+
+msgid "Search strictness"
+msgstr "Paieškos tikslumas"
+
+msgid "Search type"
+msgstr "Paieškos tipas"
+
+msgid "Send Message"
+msgstr "Siųsti žinutę"
+
+msgid "Send a Message"
+msgstr "Siųsti žinutę į ekraną"
+
+msgid "September"
+msgstr "rugsėjo"
+
+msgid "Service"
+msgstr "Kanalas"
+
+msgid "Services"
+msgstr "Kanalai"
+
+msgid "Set maximum duration"
+msgstr "Nustatyti didžiausią trukmę"
+
+msgid "Settings"
+msgstr "Visos nuostatos"
+
+msgid "Show EPG for"
+msgstr "Rodyti EPG"
+
+msgid "Show Full OpenWebif"
+msgstr "Rodyti visą OpenWebif"
+
+msgid "Show box name in header"
+msgstr "Antraštėje rodyti TV imtuvo pavadinimą"
+
+msgid "Show full remote"
+msgstr "Rodyti visą nuotolinį"
+
+msgid "Show in Extensionsmenu"
+msgstr "Rodyti tarp plėtinių meniu"
+
+msgid "Shutdown"
+msgstr "Išjungti"
+
+msgid "Simulate"
+msgstr "Imituoti"
+
+msgid "Site and sources"
+msgstr "Svetainė ir šaltiniai"
+
+msgid "SleepTimer feature not available"
+msgstr "Budėjimo laikmačio funkcija negalima"
+
+msgid "Sleeptimer has been disabled"
+msgstr "Budėjimo laikmatis buvo išjungtas"
+
+msgid "Sleeptimer is disabled"
+msgstr "Budėjimo laikmatis išjungtas"
+
+msgid "Sleeptimer is enabled"
+msgstr "Budėjimo laikmatis įjungtas"
+
+msgid "Sleeptimer set to %d minutes"
+msgstr "Budėjimo laikmatis nustatytas %d minučių"
+
+msgid "Smart services renaming for XBMC"
+msgstr "XBMC (Kodi) tarnybų pervadinimas"
+
+msgid "Software"
+msgstr "Programinė įranga"
+
+msgid "Sorry this page is not yet implemented"
+msgstr "Atsiprašome, šis puslapis dar neužbaigtas"
+
+msgid "Standby"
+msgstr "Budėjimo režimas"
+
+msgid "Standby Toggle"
+msgstr "Į budėjimo būseną"
+
+msgid "Start"
+msgstr "Pradžia"
+
+msgid "Start Instant Record"
+msgstr "Pradėti neplaninį įrašymą"
+
+msgid "Start time is after end time"
+msgstr "Pradžios laikas yra po pabaigos laiko"
+
+msgid "Stream"
+msgstr "Srautas"
+
+msgid "Su"
+msgstr "Sk"
+
+msgid "Subnet mask"
+msgstr "Potinklio kaukė"
+
+msgid "Subservices"
+msgstr "Subkanalai"
+
+msgid "Sun"
+msgstr "Sek"
+
+msgid "Sunday"
+msgstr "sekmadienis"
+
+msgid "System OE"
+msgstr "Sistemos OE"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "TV Multi EPG"
+msgstr "Daugiakanalis TV EPG"
+
+msgid "Tags"
+msgstr "Žymos"
+
+msgid "Teletext"
+msgstr "Teletekstas"
+
+msgid "Television"
+msgstr "Televizija"
+
+msgid "Template Engine"
+msgstr "Šablono variklis"
+
+msgid "Terrestrial"
+msgstr "Antžeminė"
+
+msgid "Text"
+msgstr "Tekstas"
+
+msgid "Th"
+msgstr "Kt"
+
+msgid "The parameter '%s' can't be empty"
+msgstr "Parametras '%s' negali būti tuščias"
+
+msgid "The parameter 'command' must be a number"
+msgstr "Parametras 'komanda' turi būti skaitmuo"
+
+msgid "The timer '%s' has been %s successfully"
+msgstr "Laikmatis '%s' sėkmingai %s"
+
+msgid "The timer '%s' has been deleted successfully"
+msgstr "Laikmatis '%s' pašalintas sėkmingai"
+
+msgid "The timer '%s' now recorded! Not disabled!"
+msgstr "Laikmatis '%s' įrašytas dabar! Neišjungtas!"
+
+msgid "Thu"
+msgstr "Ket"
+
+msgid "Thursday"
+msgstr "ketvirtadienis"
+
+msgid "Time"
+msgstr "Laikas"
+
+msgid "Timeout"
+msgstr "Intervalas"
+
+msgid "Timer"
+msgstr "Laikmatis"
+
+msgid "Timer '%s' added"
+msgstr "Laikmatis '%s' pridėtas"
+
+msgid "Timer '%s' already exists!"
+msgstr "Laikmatis '%s' jau yra!"
+
+msgid "Timer '%s' changed"
+msgstr "Laikmatis '%s' pakeistas"
+
+msgid "Timer '%s' not saved while Conflict"
+msgstr "Laikmatis '%s' neįtrauktas dėl konflikto"
+
+msgid "Timer List"
+msgstr "Laikmačių sąrašas"
+
+msgid "Timer added"
+msgstr "Laikmatis įtrauktas"
+
+msgid "Timer conflict detected! Not recording!"
+msgstr "Laikmačių konfliktas! Nebus įrašoma!"
+
+msgid "Timer type"
+msgstr "Laikmačio tipas"
+
+msgid "TimerList has been saved"
+msgstr "Laikmačių sąrašas išsaugotas"
+
+msgid "Timerlist"
+msgstr "Laikmačių sąrašas"
+
+msgid "Timers"
+msgstr "Laikmačiai"
+
+msgid "Title"
+msgstr "Antraštė"
+
+msgid "Total Memory"
+msgstr "Atminties iš viso"
+
+msgid "Translation to Spanish"
+msgstr "Vertimas į ispanų kalbą"
+
+msgid "Try Guessing"
+msgstr "Bandyti atspėti"
+
+msgid "Tu"
+msgstr "An"
+
+msgid "Tue"
+msgstr "Ant"
+
+msgid "Tuesday"
+msgstr "antradienis"
+
+msgid "Tuner Bit Error Rate BER"
+msgstr "Imtuvo klaidingų bitų santykis (BER)"
+
+msgid "Tuner Number (0-3)"
+msgstr "Imtuvų skaičių (0-3)"
+
+msgid "Tuner Signal"
+msgstr "Imtuvo signalas"
+
+msgid "Tuner Signal Power AGC"
+msgstr "Imtuvo signalo galia AGC"
+
+msgid "Tuner Signal Quality SNR"
+msgstr "Imtuvo signalo kokybė SNR"
+
+msgid "Tuner Signal Quality SNR_DB"
+msgstr "Imtuvo signalo kokybė SNR_DB"
+
+msgid "Tuner Type"
+msgstr "Imtuvo tipas"
+
+msgid "Tuners"
+msgstr "Imtuvai"
+
+msgid "Type"
+msgstr "Tipas"
+
+msgid "Unknown Volume command %s"
+msgstr "Nežinoma komanda %s"
+
+msgid "Unknown command: '%s'"
+msgstr "Nežinoma komanda: '%s'"
+
+msgid "Upcoming Events"
+msgstr "Artimiausi įvykiai"
+
+msgid "Use a custom location"
+msgstr "Naudoti išsirinktą vietą"
+
+msgid "Use custom box name"
+msgstr "Naudoti savą TV imtuvo pavadinimą"
+
+msgid "VPS"
+msgstr "VPS"
+
+msgid "VPS Overwrite"
+msgstr "Perrašyti VPS"
+
+msgid "Version"
+msgstr "Versija"
+
+msgid "Video"
+msgstr "Vaizdo įrašai"
+
+msgid "Video Height"
+msgstr "Vaizdo aukštis"
+
+msgid "Video Wide"
+msgstr "Platus vaizdas"
+
+msgid "Video Width"
+msgstr "Vaizdo plotis"
+
+msgid "Visibly"
+msgstr "Matomai"
+
+msgid "Volume"
+msgstr "Garsas"
+
+msgid "Volume Control"
+msgstr "Garso valdymas"
+
+msgid "W"
+msgstr "V"
+
+msgid "Waiting for answer ..."
+msgstr "Laukiama atsakymo..."
+
+msgid "Wakeup"
+msgstr "Pažadinti"
+
+msgid "Warning"
+msgstr "Dėmesio"
+
+msgid "We"
+msgstr "Tr"
+
+msgid "Wed"
+msgstr "Tre"
+
+msgid "Wednesday"
+msgstr "trečiadienis"
+
+msgid "Weekday"
+msgstr "Šiokiadienis"
+
+msgid "Weekend"
+msgstr "Savaitgalis"
+
+msgid "Weekly (Monday)"
+msgstr "Kas savaitę (pirmadienis)"
+
+msgid "Weekly (Sunday)"
+msgstr "Kas savaitę (sekmadienis)"
+
+msgid "Wizzard"
+msgstr "Vedlys"
+
+msgid "Wrong parameter format 'set=%s'. Use set=set15 "
+msgstr "Neteisingas parametro formatas 'set=%s'. Naudokite set=set15 "
+
+msgid "Yes/No"
+msgstr "Taip / Ne"
+
+msgid "Zap"
+msgstr "Perjungti"
+
+msgid "Zap to"
+msgstr "Perjungti į"
+
+msgid "Zapped to"
+msgstr "Perjungta į"
+
+msgid "auto"
+msgstr "auto"
+
+msgid "case-insensitive search"
+msgstr "paieška, neatsižvelgiant į DIDŽIĄSIAS-mažąsias raides"
+
+msgid "case-sensitive search"
+msgstr "paieška, atsižvelgiant į DIDŽIĄSIAS-mažąsias raides"
+
+msgid "description match"
+msgstr "aprašymo atitikimas"
+
+msgid "do nothing"
+msgstr "nieko nedaryti"
+
+msgid "exact match"
+msgstr "tikslus atitikimas"
+
+msgid "finished"
+msgstr "baigta"
+
+msgid "go to deep standby"
+msgstr "išjungti"
+
+msgid "go to standby"
+msgstr "į budėjimo režimą"
+
+msgid "in Description"
+msgstr "aprašyme"
+
+msgid "in Shortdescription"
+msgstr "trumpame aprašyme"
+
+msgid "in Title"
+msgstr "pavadinime"
+
+msgid "loading"
+msgstr "įkeliama"
+
+msgid "no description available"
+msgstr "aprašymo nėra"
+
+msgid "none/IPv4-only network"
+msgstr "nėra / tik IPv4 tinklas"
+
+msgid "on Weekday"
+msgstr "šiokiadienį"
+
+msgid "partial match"
+msgstr "dalinis atitikimas"
+
+msgid "published by the Free Software Foundation."
+msgstr "paviešinta 'Free Software Foundation'."
+
+msgid "record"
+msgstr "įrašas"
+
+msgid "running"
+msgstr "veikia"
+
+msgid "seconds"
+msgstr "sekundžių"
+
+msgid "select Bouquets"
+msgstr "pasirinkite bukietus"
+
+msgid "select Channels"
+msgstr "pasirinkite kanalus"
+
+msgid "select Tags"
+msgstr "pasirinkite žymas"
+
+msgid "short description match"
+msgstr "trumpo aprašymo atitikimas"
+
+msgid "standard"
+msgstr "standartinis"
+
+msgid "start match"
+msgstr "pradžios atitikimas"
+
+msgid "terms of the GNU General Public License version 2 as"
+msgstr "GNU Bendrosios viešosios licencijos sąlygas v.2, kaip"
+
+msgid "title or description match"
+msgstr "pavadinimo, ar aprašymo atitikimas"
+
+msgid "title or short description match"
+msgstr "pavadinimo, ar trumpo aprašymo atitikimas"
+
+msgid "transcoded"
+msgstr "perkoduota"
+
+msgid "type %s is not a number"
+msgstr "tipas %s nėra skaičius"
+
+msgid "waiting"
+msgstr "laukiama"
+
+msgid "you can redistribute it and/or modify it under the"
+msgstr "Jūs galite platinti ir/ar modifikuoti pagal"
+
+msgid "zap"
+msgstr "perjungti"
+
+msgid "zap before Stream"
+msgstr "perjungti prieš transliaciją"
